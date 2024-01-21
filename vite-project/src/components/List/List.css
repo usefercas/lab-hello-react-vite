@@ -1,0 +1,25 @@
+.list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  padding: 10px;
+  left: 0;
+  right: 0;
+  color:black
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  text-align: center; 
+  margin: 0 20px; 
+}
+
